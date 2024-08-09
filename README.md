@@ -1,2 +1,2 @@
 # Snake-Game
-Snake game. Fully developed using python
+Snake game. Fully developed using python.
